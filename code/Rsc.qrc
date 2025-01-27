@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/background.png</file>
+        <file>img/fireball.gif</file>
+        <file>img/you.gif</file>
+        <file>img/zombie.gif</file>
+        <file>img/splash.png</file>
+    </qresource>
+</RCC>
