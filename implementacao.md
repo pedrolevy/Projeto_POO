@@ -30,6 +30,6 @@ Quando um zumbi é atingido por um tiro, a pontuação do jogador aumenta e o zu
 
 <div align="center">
 
-[Retroceder](projeto.md) | [Início](testes.md)
+[Retroceder](projeto.md) | [Avançar](testes.md)
 
 </div>

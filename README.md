@@ -6,8 +6,8 @@
 
 Repositório destinado para o desenvolvimento do projeto final da discipliana PRG203405 - PROGRAMAÇÃO ORIENTADA A OBJETOS. 
 
-Professor: Hugo Marcondes\
-Aluno: Maylon Pedro Levy Cavalheiro
+**Professor**: Hugo Marcondes\
+**Aluno**: Maylon Pedro Levy Cavalheiro
  
 
 ## SUMÁRIO

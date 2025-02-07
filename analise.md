@@ -46,6 +46,14 @@ O ambiente do jogo é simples e jogador deve reagir rapidamente aos inimigos que
 O Diagrama de Casos de Uso apresenta as principais funcionalidades do sistema e suas interações com o jogador. Ele ilustra de forma simplificada as ações realizadas, tais como movimentar-se, realizar disparos, pausar ou reiniciar o jogo, além das funcionalidades internas, como o gerenciamento de inimigos, colisões e pontuação.
 
 <img src="img/caso-de-uso.png" width="100%" style="padding: 10px">
+
+
+## Diagrama de Sequência
+
+O diagrama de sequência tem como objetivo ilustrar a interação entre os objetos do sistema ao longo do tempo, representando a troca de mensagens e a ordem em que ocorrem. No contexto deste jogo, o diagrama de sequência do tiro mostra como diferentes componentes interagem para processar um tiro, desde a entrada do jogador até a remoção do tiro, colisão com um inimigo e cômputo de Score.
+
+<img src="img/sequencia-tiro.png" width="100%" style="padding: 10px">
+
  
 ## Diagrama de Domínio do problema
 
